@@ -1,0 +1,1 @@
+This is a simplistic app to test the functionality of git.
